@@ -1,0 +1,10 @@
+Policial
+Bombeiro
+Artista
+Gari
+Cientista
+Dentista
+Maquinista
+Soldado
+Professor
+Programador
